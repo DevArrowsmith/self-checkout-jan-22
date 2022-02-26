@@ -21,7 +21,7 @@ So far requirements 1 and 2 have been met. Requirements 3 and 4 have yet to be f
 
 ## Next Steps
 
-- Try to complete this exercise by fulfilling the final two user requirements.
+- Fork this repo, then try to complete this exercise by fulfilling the final two user requirements.
 - Use **Test Driven Development (TDD)**.
 - Use the <span style="color: coral">**Red**</span>, <span style="color: aquamarine">**Green**</span>, <span style="color: goldenrod">**Refactor**</span> process:
   - <span style="color: coral">**Red:**</span> Write a test for the functionality that you want. Initially this will fail.
@@ -35,4 +35,5 @@ So far requirements 1 and 2 have been met. Requirements 3 and 4 have yet to be f
 - You could also think about ways to structure the project differently
   - Could the test data be stored in a separate file from the functions? 
   - Rather than having separate variable for each fruit and the catalogue, could the data be stored in a single data structure? How would the application use this data?
+  - Feel free to update this readme!
 
