@@ -35,5 +35,5 @@ So far requirements 1 and 2 have been met. Requirements 3 and 4 have yet to be f
 - You could also think about ways to structure the project differently
   - Could the test data be stored in a separate file from the functions? 
   - Rather than having separate variable for each fruit and the catalogue, could the data be stored in a single data structure? How would the application use this data?
-  - Feel free to update this readme!
+- Feel free to update this readme!
 
